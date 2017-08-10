@@ -8,7 +8,7 @@ import (
 	"bytes"
 	"strings"
 	"time"
-	"thg"
+	"github.com/animotto/thg"
 	"github.com/robertkrimen/otto"
 )
 

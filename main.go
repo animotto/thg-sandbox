@@ -9,7 +9,7 @@ import (
 	"time"
 	"flag"
 	"bytes"
-	"thg"
+	"github.com/animotto/thg"
 	"github.com/chzyer/readline"
 	"github.com/robertkrimen/otto"
 	"github.com/spf13/viper"
